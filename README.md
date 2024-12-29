@@ -8,13 +8,15 @@ In addition to the features, it also contains information on whether users actua
 2. Exploratory Data Analysis (EDA) and Data Preprocessing
 
 EDA / Preprocessing Steps:
+
 •Extracting Unique Values in each of the Features of the Dataset and finding the number of Unknown / Missing values in each column.
 •Finding Occurrences / Data Points where the Conversion differs despite being the same on all other features and comparing True vs. Predicted Conversion from the Dataset.
 •Finding the threshold for predicted_probability where predicted_conversion is 1 happens to be 0.3658223221090007
 •We dropped the column of predicted_probability and also dropped the duplicate rows in the original dataset. (1443140 rows reduced to 2591 rows)
 •As the missing data is very high, instead of dropping the column, we are replacing the values of "Unknown" in the dataset based on the proportion of other unique values in that specific column / feature of the dataset
 
-Bivariate Analysis
+Bivariate Analysis:
+
 •The highest conversion rate is observed among college-educated homeowners, while the lowest conversion rate is among non-college-educated non-homeowners.
 College-educated individuals in both areas have notably higher conversion rates, suggesting that education level significantly influences conversions regardless of the area.
 While urban areas have higher representation, the likelihood of conversion does not differ significantly across gender or area
