@@ -16,8 +16,8 @@ EDA / Preprocessing Steps:
 
 Bivariate Analysis
 •The highest conversion rate is observed among college-educated homeowners, while the lowest conversion rate is among non-college-educated non-homeowners.
-•College-educated individuals in both areas have notably higher conversion rates, suggesting that education level significantly influences conversions regardless of the area.
-•While urban areas have higher representation, the likelihood of conversion does not differ significantly across gender or area
+College-educated individuals in both areas have notably higher conversion rates, suggesting that education level significantly influences conversions regardless of the area.
+While urban areas have higher representation, the likelihood of conversion does not differ significantly across gender or area
 •Regardless of Income (<100k or >100k), Younger age groups (18-24) have significantly lower conversion rates)
 •Political affiliation and religion both impact conversion rates, with "Others" generally showing higher average conversion rates than "Christianity" across various political categories, especially in "Liberalism." This suggests that individuals with certain religious and political affiliations may respond differently to conversion opportunities.
 
