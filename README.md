@@ -1,11 +1,11 @@
-##1. Introdcution
+#1. Introdcution
 
 # Bias-in-Advertising-Data
 Dataset contains synthetic generated data for users who were shown a certain advertisement (ad). Each instance of the dataset is specific to a user and has feature attributes such as gender, age, income, political/religious affiliation, parental status, home ownership, area (rural/urban), and education status.
 
 In addition to the features, it also contains information on whether users actually clicked on or were predicted to click on the ad. Clicking on the ad is known as conversion, and the three outcome variables included are: (1) The predicted probability of conversion, (2) Predicted conversion (binary 0/1) which is obtained by thresholding the predicted probability, (3) True conversion (binary 0/1) that indicates whether the user actually clicked on the ad.
 
-##2. Exploratory Data Analysis (EDA) and Data Preprocessing
+#2. Exploratory Data Analysis (EDA) and Data Preprocessing
 
 #EDA / Preprocessing Steps:
 
@@ -23,7 +23,7 @@ While urban areas have higher representation, the likelihood of conversion does 
 •Regardless of Income (<100k or >100k), Younger age groups (18-24) have significantly lower conversion rates)
 •Political affiliation and religion both impact conversion rates, with "Others" generally showing higher average conversion rates than "Christianity" across various political categories, especially in "Liberalism." This suggests that individuals with certain religious and political affiliations may respond differently to conversion opportunities.
 
-##3. Data Mining Algorithms and Result Analysis
+#3. Data Mining Algorithms and Result Analysis
 
 The Summary of Data Mining Algorithms used as part of the Project are:
 ●Decision Tree Model (Pre-Pruned & Post-Pruned)
